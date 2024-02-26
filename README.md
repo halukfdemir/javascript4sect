@@ -1,2 +1,2 @@
 # javascript
-"operator predence", "switch statement", "ternary operator" konuları
+"operator predence", "switch statement", "ternary operator" konuları işlendi.
